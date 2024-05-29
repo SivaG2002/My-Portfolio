@@ -67,7 +67,9 @@ h6 {
 }
 
 
-
+.rounded-circle {
+  border-radius:0px
+}
 
 .img-fluid {
     border-radius: 80px;
